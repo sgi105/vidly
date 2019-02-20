@@ -1,0 +1,65 @@
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:07:48"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:07:48"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:09:12"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:09:12"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:10:01"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:10:01"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:12:23"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:12:23"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:12:57"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:12:57"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:13:29"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:13:29"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:13:59"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:13:59"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:15:08"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:15:08"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:15:12"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:15:12"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:15:29"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:15:29"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:16:46"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:16:46"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:17:26"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:17:26"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:18:28"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:18:28"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:18:32"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:18:32"}
+{"message":"Listening on port 3000","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:18:33"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:06"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:07"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:19:06"}
+{"message":"Listening on port 3000","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:07"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:19:07"}
+{"message":"Connected to reviewvidly_tests...","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:07"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:38"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:39"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:19:38"}
+{"message":"Listening on port 3000","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:39"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:19:39"}
+{"message":"Connected to reviewvidly_tests...","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:19:39"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:10"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:12"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:33:10"}
+{"message":"Listening on port 3000","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:12"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:33:12"}
+{"message":"Connected to reviewvidly_tests...","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:12"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:39"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:40"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:33:39"}
+{"message":"Listening on port 3000","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:40"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:33:40"}
+{"message":"Connected to reviewvidly_tests...","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:33:40"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:25"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:26"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:34:25"}
+{"message":"Listening on port 3000","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:26"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:34:26"}
+{"message":"Connected to reviewvidly_tests...","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:26"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:30"}
+{"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:32"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:34:30"}
+{"message":"Listening on port 3000","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:32"}
+{"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:34:32"}
+{"message":"Connected to reviewvidly_tests...","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:34:32"}

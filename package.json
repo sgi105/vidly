@@ -7,11 +7,14 @@
     "bcrypt": "^3.0.4",
     "config": "^3.0.1",
     "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
     "fawn": "^2.1.5",
     "joi": "^14.3.1",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.4.10"
+    "mongoose": "^5.4.10",
+    "winston": "^3.2.1",
+    "winston-mongodb": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^5.13.0",
@@ -19,10 +22,12 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-standard": "^4.0.0"
+    "eslint-plugin-standard": "^4.0.0",
+    "jest": "^24.1.0",
+    "supertest": "^3.4.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll --verbose"
   },
   "keywords": [],
   "author": "",

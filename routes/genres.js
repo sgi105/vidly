@@ -4,6 +4,8 @@ const mongoose = require('mongoose');
 const { Genre, validate } = require('../models/genre');
 const auth = require('../middleware/auth');
 const admin = require('../middleware/admin');
+require('express-async-errors');
+
 
 // =====Create: post=============
 router.post('/', auth, async (req, res) => {
@@ -11,21 +13,22 @@ router.post('/', auth, async (req, res) => {
     if (error) return res.status(400).send(error.details[0].message);
 
     let genre = new Genre({ name: req.body.name });
-    try {
-        genre = await genre.save();
-        console.log(genre);
-        res.send(genre);
-    } catch (err) { console.log('Error', err.message); }
+    genre = await genre.save();
+    console.log(genre);
+    res.send(genre);
+
 });
+
+
+
 
 // =============Read: get=============
 // the whole list
-router.get('/', async (req, res) => {
-    try {
-        const genres = await Genre.find().sort('name');
-        console.log(genres);
-        res.send(genres);
-    } catch (err) { console.log('Error', err.message); }
+router.get('/', async (req, res, next) => {
+    const genres = await Genre.find().sort('name');
+    console.log(genres);
+    res.send(genres);
+
 });
 
 // specific genre
