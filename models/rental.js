@@ -53,7 +53,7 @@ const rentalSchema = new mongoose.Schema({
     },
     rentalFee: {
         type: Number,
-        required: true,
+        // required: true,
         min: 0
     }
 });

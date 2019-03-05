@@ -27,9 +27,12 @@
     "supertest": "^3.4.2"
   },
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --watchAll --verbose --coverage --runInBand"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  }
 }

@@ -24,7 +24,7 @@ module.exports = function () {
                 level: 'error',
                 format: format.json()
             }),
-            new transports.MongoDB({ db: 'mongodb://localhost/reviewvidly', level: 'error' }),
+            // new transports.MongoDB({ db: 'mongodb://localhost/reviewvidly', level: 'error' }),
         ],
         exceptionHandlers: [
             new transports.Console(),
@@ -34,9 +34,6 @@ module.exports = function () {
             })
         ]
     });
-
-    logger.info('Hello World!');
-    logger.debug('debugging info');
 
     // throwing exception when promise is not resolved so that the winston handler above can handle it instead. 
     process.on('unhandledRejection', ex => {

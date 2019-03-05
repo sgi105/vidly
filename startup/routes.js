@@ -7,7 +7,7 @@ const users = require('../routes/users');
 const auth = require('../routes/auth');
 const error = require('../middleware/error');
 const express = require('express');
-
+const returns = require('../routes/returns');
 
 // middleware initialization
 
@@ -19,6 +19,7 @@ module.exports = function (app) {
     app.use('/api/rentals', rentals);
     app.use('/api/users', users);
     app.use('/api/auth', auth);
+    app.use('/api/returns', returns);
     app.use(error);
 }
 

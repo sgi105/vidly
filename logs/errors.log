@@ -1,2 +1,4 @@
 {"message":"Hello World!","level":"\u001b[32minfo\u001b[39m","timestamp":"19-02-20 15:12:23"}
 {"message":"debugging info","level":"\u001b[34mdebug\u001b[39m","timestamp":"19-02-20 15:12:23"}
+{"message":"fmoeiwfo","level":"\u001b[31merror\u001b[39m","timestamp":"19-02-20 18:08:05"}
+{"message":"fmoeiwfo","level":"\u001b[31merror\u001b[39m","timestamp":"19-02-20 18:08:06"}
